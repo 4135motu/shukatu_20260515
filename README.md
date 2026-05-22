@@ -54,7 +54,4 @@ Unreal Engine 5 と C++ で制作したFPSゲームです。
 
 
 
-\## 実行方法
-
-このリポジトリをクローンし、`fps\_2.uproject` を Unreal Engine 5 で開いてください。
 
